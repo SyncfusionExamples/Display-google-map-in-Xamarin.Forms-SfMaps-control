@@ -1,6 +1,6 @@
 # Display google map in Xamarin.Forms SfMaps control
 
-This repository contains sample for how to display google map in the [Syncfusion Xamarin.Forms Maps](https://help.syncfusion.com/xamarin/maps/getting-started) control.
+This repository contains sample to display google map in the [Syncfusion Xamarin.Forms Maps](https://help.syncfusion.com/xamarin/maps/getting-started) control.
 
 ## Syncfusion controls:
 
